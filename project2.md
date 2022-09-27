@@ -35,7 +35,7 @@ end
 ```
 
 # project_linux_administrator
-### project1  
+### project  
 
 
 #### 1. Consider you are a linux Engineer.
